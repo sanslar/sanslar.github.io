@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rP1ibV9FEEgwrANHMECeHZYyfuLMpbAmrE"
+      }
+    }
+  ],
+  "payId": "pay$sanslar.github.io"
+}
